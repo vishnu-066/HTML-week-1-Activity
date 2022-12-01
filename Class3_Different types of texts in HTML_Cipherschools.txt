@@ -1,0 +1,28 @@
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+    headings & paragraphs
+        </title>
+    </head>
+    <body>
+        <p><strong>Hello Everyone!</strong></p>
+        <h1>Class-3_Different Type of Texts in HTML_cipherschools</h1>
+        <h2>Iam vishnu</h2>
+        <h3>Iam vishnu</h3>
+        <h4>Iam vishnu</h4>
+        <h5>Iam vishnu</h5>
+        <h6>Iam vishnu</h6>
+
+        <!--subscripts-->
+        <p>H<sub>2</sub>O</p>
+
+        <!--superscripts-->
+        <p>5<sup>6</sup></p>
+
+        <small>All Rights Reserved &trade; &copy; 2022</small>
+
+    </body>
+</html>
